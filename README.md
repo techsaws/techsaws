@@ -1,4 +1,4 @@
-![TechSaws Banner](public/social/banner.jpg)
+![TechSaws Banner](images/banner.jpg)
 
 # TechSaws
 
