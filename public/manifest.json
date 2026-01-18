@@ -1,0 +1,45 @@
+{
+  "name": "TechSaws — We Build. We Brand. We Break Boundaries.",
+  "short_name": "TechSaws",
+  "description": "Premium software engineering for web, mobile, SaaS, AI automation, and cybersecurity-first delivery.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ],
+  "orientation": "any",
+  "background_color": "#0a0a0b",
+  "theme_color": "#1a4cc9",
+  "categories": [
+    "business",
+    "productivity",
+    "technology"
+  ],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/favicons/logo-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicons/logo-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicons/logo-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
