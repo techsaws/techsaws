@@ -1,4 +1,4 @@
-![TechSaws Banner](images/banner.png)
+![TechSaws Banner](../images/banner.png)
 
 # TechSaws
 
@@ -8,23 +8,23 @@ TechSaws is a systems engineering studio focused on AI automation, backend infra
 
 We design and build:
 
-* AI-powered systems
-* Backend & cloud infrastructure
-* SaaS platforms
-* Internal tools & operational systems
-* Revenue & growth automation
-* Security-focused architectures
+- AI-powered systems
+- Backend & cloud infrastructure
+- SaaS platforms
+- Internal tools & operational systems
+- Revenue & growth automation
+- Security-focused architectures
 
 Our work combines automation, engineering, and business execution to help companies reduce operational friction, improve scalability, and move faster.
 
 ## Core Focus Areas
 
-* AI & Automation Systems
-* Backend & Infrastructure Engineering
-* Revenue & Growth Systems
-* Cybersecurity & System Hardening
-* SaaS Architecture
-* Cloud & DevOps Engineering
+- AI & Automation Systems
+- Backend & Infrastructure Engineering
+- Revenue & Growth Systems
+- Cybersecurity & System Hardening
+- SaaS Architecture
+- Cloud & DevOps Engineering
 
 ## Technology
 
@@ -38,18 +38,18 @@ AI Systems • Automation • APIs • System Design
 
 We build systems that are:
 
-* scalable
-* maintainable
-* secure
-* performance-focused
-* designed for real-world execution
+- scalable
+- maintainable
+- secure
+- performance-focused
+- designed for real-world execution
 
 ## Connect
 
-* GitHub: https://github.com/techsaws
-* LinkedIn: https://www.linkedin.com/company/techsaws
-* X/Twitter: https://twitter.com/TechSaws
-* Website: https://techsaws.com
+- GitHub: https://github.com/techsaws
+- LinkedIn: https://www.linkedin.com/company/techsaws
+- X/Twitter: https://twitter.com/TechSaws
+- Website: https://techsaws.com
 
 ## Contact
 
